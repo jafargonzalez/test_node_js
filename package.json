@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "author": "Hossein jafari",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.13.1",
+    "hbs": "^4.0.0",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.15",
+    "mocha": "^6.2.0",
+    "mongodb": "^2.2.19",
+    "request": "^2.88.0",
+    "supertest": "^2.0.0",
+    "yargs": "^4.8.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
